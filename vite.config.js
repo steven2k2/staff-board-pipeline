@@ -1,9 +1,7 @@
 import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  plugins: [react()],
-  base: '/staff-board-pipeline/',
+  base: '/staff-board-pipeline/staging/', // Ensure this matches the staging URL
   build: {
     outDir: 'dist',
   },
