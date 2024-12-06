@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # staff-board-pipeline
 
-Testing deploys with correct permissions
+Testing deploys with correct permissions v2
